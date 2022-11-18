@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Seb.
-
-I write about learning python and energy.
+Hi i'm Leah
