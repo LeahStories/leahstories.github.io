@@ -28,7 +28,7 @@ github_username: leahstories
 markdown: kramdown
 
 # Build settings
-theme: minima
+theme: parchment
 plugins:
   - jekyll-feed
 
