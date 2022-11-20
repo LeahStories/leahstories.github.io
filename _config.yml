@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-Title: leahstories
-Instagram: jolie_melancolie
-Description: >- # this means to ignore newlines until "baseurl:"
+title: leahstories
+tnstagram: jolie_melancolie
+description: >- # this means to ignore newlines until "baseurl:"
   My stories
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
