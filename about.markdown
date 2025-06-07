@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-I have always have the dream in the back of my head of becoming a writer.
+I have always had the dream in the back of my head of becoming a writer.
 
 As unlikely as this may seem, it is still one of my dearest dream.
 
